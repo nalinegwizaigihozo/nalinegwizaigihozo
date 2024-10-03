@@ -1,9 +1,7 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</h1>
+
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+ISHIMWE+Patience;Software+Engineering+Student;Aspiring+Software+Developer;Musician;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Igihozo+GWIZA+Aline;Software+Engineering+Student;Aspiring+Software+Developer;&center=true&width=380&height=45"></a>
 </p>
 
 <p align="center">
@@ -23,7 +21,7 @@
 ## 🛠 My Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -33,11 +31,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IshimwePatience&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IGIHOZO GWIZA ALINE&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshimwePatience&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IGIHOZOGWIZAALINE&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
@@ -51,7 +49,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=IshimwePatience&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=IGIHOZOGWIZAAline&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p><!---
 nalinegwizaigihozo/nalinegwizaigihozo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
