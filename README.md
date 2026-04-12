@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/igihozo-gwiza-aline-a55709262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alinegwizaigihozo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://youtube.com/@igihozogwizaaline1808"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  
 </p>
 
 ## 👨‍💻 About Me
