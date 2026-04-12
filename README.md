@@ -15,18 +15,11 @@
 - 🎓 Software Engineering student at *Adventist University Of Central Africa (AUCA)*
 - 💻 Passionate about creating efficient and innovative software solutions
 - 🌱 Currently focusing on expanding my skills in software design and development
-- 🎵 Fun fact: I'm also a musician! Check out my YouTube channel
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers
 
 ## 🛠 My Skills
 
-<p align="center">
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
+
 
 ## 📊 GitHub Stats
 
