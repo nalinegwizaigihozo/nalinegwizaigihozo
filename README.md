@@ -17,7 +17,6 @@
 - 🌱 Currently focusing on expanding my skills in software design and development
 - 💡 Always excited to work on challenging projects and collaborate with fellow developers
 
-## 🛠 My Skills
 
 
 
